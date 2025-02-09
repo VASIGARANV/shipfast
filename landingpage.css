@@ -1,0 +1,112 @@
+
+body {
+    background-color: #1a1a1a;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    display: flex;
+    padding: 20px 70px;
+    align-items: center;
+    margin-right: 0px;
+    background-color: #222;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav a {
+    margin-left: 50px;
+    margin-right: 20px;
+    padding: 1px;
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    font-size: 16px;
+    border-radius: 20px;
+    margin-left: 500px;
+}
+.user {
+    
+}
+.main{
+    margin: 80px;
+    position: relative;
+    left: -330px;
+}
+
+h2 {
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: -10px;
+    color: antiquewhite;
+   
+}
+h1{
+    font-size: 60px;
+    font-weight: bold;
+    position: relative;
+    left: 20px;
+    margin-top: -30px;
+    color: antiquewhite;
+
+}
+.highlight {
+    background-color:rgb(189, 177, 162);
+    padding: 5px;
+    border-radius: 3px;
+
+    
+}
+p{
+    font-size: 20px;
+    margin-left: 45px;
+}
+.move{
+    font-size: 20px;
+    margin-left: -22px;
+}
+
+.btn {
+    background-color: yellow;
+    color: black;
+    padding: 10px 44px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: -290px;
+}
+
+.line {
+    color: green;
+    margin-top: 20px;
+    margin-left: -100px;
+}
+
+.white {
+    color: white;
+}
+
+
+.prologo{
+    height: 80px;
+    margin-top: -50px;
+    margin-left: -320px;
+}
+ .img{
+    height: 500px;
+    margin-top: -560px;
+    margin-left: 620px;
+ }
